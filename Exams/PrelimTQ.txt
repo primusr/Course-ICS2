@@ -1,0 +1,821 @@
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (1)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What is a well defined procedure that allows an agent to solve a particular problem?
+:ANSWER1:0:H
+Process
+:REASON1:H
+
+:ANSWER2:100:H
+Algorithm
+:REASON2:H
+
+:ANSWER3:0:H
+Flowchart
+:REASON3:H
+
+:ANSWER4:0:H
+Program Flow
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (2)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What is NOT a characteristic of an algorithm?
+:ANSWER1:0:H
+Well-ordered
+:REASON1:H
+
+:ANSWER2:0:H
+Easy to perform
+:REASON2:H
+
+:ANSWER3:0:H
+Must terminate
+:REASON3:H
+
+:ANSWER4:100:H
+Ambiguous
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (3)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Which flowchart symbol represents an I/O operation?
+:ANSWER1:0:H
+image1
+:REASON1:H
+
+:ANSWER2:0:H
+image2
+:REASON2:H
+
+:ANSWER3:0:H
+image3
+:REASON3:H
+
+:ANSWER4:100:H
+image4
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (4)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Which flowchart symbol might represent a loop?
+:ANSWER1:100:H
+image1
+:REASON1:H
+
+:ANSWER2:0:H
+image2
+:REASON2:H
+
+:ANSWER3:0:H
+image3
+:REASON3:H
+
+:ANSWER4:0:H
+image4
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (5)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Which flowchart symbol represents that a certain flow connects to an additional diagram not found on the current page?
+:ANSWER1:0:H
+image1
+:REASON1:H
+
+:ANSWER2:0:H
+image2
+:REASON2:H
+
+:ANSWER3:100:H
+image3
+:REASON3:H
+
+:ANSWER4:0:H
+image4
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (6)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Based on the image given, what flowchart structure is being represented?
+:ANSWER1:0:H
+Loop
+:REASON1:H
+
+:ANSWER2:0:H
+Sequence
+:REASON2:H
+
+:ANSWER3:0:H
+Decision
+:REASON3:H
+
+:ANSWER4:100:H
+Case
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (7)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Based on the image given, what flowchart structure is being represented?
+:ANSWER1:100:H
+Loop
+:REASON1:H
+
+:ANSWER2:0:H
+Sequence
+:REASON2:H
+
+:ANSWER3:0:H
+Condition
+:REASON3:H
+
+:ANSWER4:0:H
+Case
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (8)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What was the original proposed name for Java?
+:ANSWER1:0:H
+C
+:REASON1:H
+
+:ANSWER2:0:H
+Oat
+:REASON2:H
+
+:ANSWER3:100:H
+Oak
+:REASON3:H
+
+:ANSWER4:0:H
+Java Coffee
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (9)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What technology contain a complete set of class files for all types of Java technology packages?
+:ANSWER1:0:H
+JVM
+:REASON1:H
+
+:ANSWER2:100:H
+SDK
+:REASON2:H
+
+:ANSWER3:0:H
+JDK
+:REASON3:H
+
+:ANSWER4:0:H
+JRE
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (10)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+After compiling a Java source code, what file will be generated and stored on the storage device?
+:ANSWER1:100:H
+.class file
+:REASON1:H
+
+:ANSWER2:0:H
+.exe file
+:REASON2:H
+
+:ANSWER3:0:H
+.java file
+:REASON3:H
+
+:ANSWER4:0:H
+.jar file
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (11)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What method does all program execution happen in Java?
+:ANSWER1:0:H
+constructor method
+:REASON1:H
+
+:ANSWER2:0:H
+accessor method
+:REASON2:H
+
+:ANSWER3:0:H
+executor method
+:REASON3:H
+
+:ANSWER4:100:H
+main method
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (12)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What is the term used to refer to one or more statements bound by an open and close curly brace?
+:ANSWER1:0:H
+statement
+:REASON1:H
+
+:ANSWER2:0:H
+body
+:REASON2:H
+
+:ANSWER3:100:H
+block
+:REASON3:H
+
+:ANSWER4:0:H
+class
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (13)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Which among the following is a valid identifier name?
+:ANSWER1:0:H
+*number
+:REASON1:H
+
+:ANSWER2:100:H
+number$
+:REASON2:H
+
+:ANSWER3:0:H
+number*
+:REASON3:H
+
+:ANSWER4:0:H
+-number
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (14)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Which among the following is a valid identifier name? 
+:ANSWER1:100:H
+_lastname
+:REASON1:H
+
+:ANSWER2:0:H
+-lastname
+:REASON2:H
+
+:ANSWER3:0:H
+%lastname
+:REASON3:H
+
+:ANSWER4:0:H
+&#x0026;lastname
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (15)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What Java literal is enclosed in double quotation marks?
+:ANSWER1:0:H
+Character
+:REASON1:H
+
+:ANSWER2:0:H
+Boolean
+:REASON2:H
+
+:ANSWER3:0:H
+Integral
+:REASON3:H
+
+:ANSWER4:100:H
+String
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (16)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What Java literal can be represented in either decimal, octal or hexadecimal?
+:ANSWER1:0:H
+Character
+:REASON1:H
+
+:ANSWER2:0:H
+Boolean
+:REASON2:H
+
+:ANSWER3:100:H
+Integral
+:REASON3:H
+
+:ANSWER4:0:H
+String
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (17)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What data typecan only have either one of two values, true or false?
+:ANSWER1:0:H
+int
+:REASON1:H
+
+:ANSWER2:100:H
+boolean
+:REASON2:H
+
+:ANSWER3:0:H
+char
+:REASON3:H
+
+:ANSWER4:0:H
+String
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (18)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What symbol represents an operation that will return the remainder or two operands?
+:ANSWER1:0:H
+/
+:REASON1:H
+
+:ANSWER2:100:H
+%
+:REASON2:H
+
+:ANSWER3:0:H
+$
+:REASON3:H
+
+:ANSWER4:0:H
+|
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (19)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What symbol evaluates two or more relational expressions and results to a true value if and only if all expressions are true?
+:ANSWER1:0:H
+^
+:REASON1:H
+
+:ANSWER2:0:H
+|
+:REASON2:H
+
+:ANSWER3:100:H
+&#x0026;
+:REASON3:H
+
+:ANSWER4:0:H
+!
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (20)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+What symbol evaluates two or more relational expressions and results to a true value if and only if all expressions result in different values?
+:ANSWER1:100:H
+^
+:REASON1:H
+
+:ANSWER2:0:H
+|
+:REASON2:H
+
+:ANSWER3:0:H
+&#x0026;
+:REASON3:H
+
+:ANSWER4:0:H
+!
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (21)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the Java source code, what line would produce a syntax error?
+:ANSWER1:100:H
+Line 1
+:REASON1:H
+
+:ANSWER2:0:H
+Line 3
+:REASON2:H
+
+:ANSWER3:0:H
+Line 4
+:REASON3:H
+
+:ANSWER4:0:H
+Line 6
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (22)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the Java source code, what line would produce a syntax error?
+:ANSWER1:0:H
+Line 1
+:REASON1:H
+
+:ANSWER2:100:H
+Line 2
+:REASON2:H
+
+:ANSWER3:0:H
+Line 3
+:REASON3:H
+
+:ANSWER4:0:H
+Line 4
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (23)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the Java source code, what line would produce a syntax error?
+:ANSWER1:0:H
+Line 1
+:REASON1:H
+
+:ANSWER2:0:H
+Line 2
+:REASON2:H
+
+:ANSWER3:100:H
+Line 5
+:REASON3:H
+
+:ANSWER4:0:H
+Line 8
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (24)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be contained in variable r?
+:ANSWER1:0:H
+true
+:REASON1:H
+
+:ANSWER2:100:H
+false
+:REASON2:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (25)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be contained in variable r?
+:ANSWER1:0:H
+true
+:REASON1:H
+
+:ANSWER2:100:H
+false
+:REASON2:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (26)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be final value contained in variable x?
+:ANSWER1:0:H
+12
+:REASON1:H
+
+:ANSWER2:100:H
+5
+:REASON2:H
+
+:ANSWER3:0:H
+2
+:REASON3:H
+
+:ANSWER4:0:H
+7
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (27)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be final value contained in variable y?
+:ANSWER1:100:H
+12
+:REASON1:H
+
+:ANSWER2:0:H
+1
+:REASON2:H
+
+:ANSWER3:0:H
+5
+:REASON3:H
+
+:ANSWER4:0:H
+7
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (28)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be the value contained in variable r?
+:ANSWER1:0:H
+true
+:REASON1:H
+
+:ANSWER2:100:H
+false
+:REASON2:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (29)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be the value contained in variable r?
+:ANSWER1:100:H
+true
+:REASON1:H
+
+:ANSWER2:0:H
+false
+:REASON2:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (30)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be the value contained in variable r?
+:ANSWER1:100:H
+true
+:REASON1:H
+
+:ANSWER2:0:H
+false
+:REASON2:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (31)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what value would be the value contained in variable x?
+:ANSWER1:0:H
+14
+:REASON1:H
+
+:ANSWER2:0:H
+-15
+:REASON2:H
+
+:ANSWER3:0:H
+15
+:REASON3:H
+
+:ANSWER4:100:H
+-14
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (32)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 10?
+:ANSWER1:0:H
+Result is 20
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 10s
+:REASON2:H
+
+:ANSWER3:100:H
+Result is 1010
+:REASON3:H
+
+:ANSWER4:0:H
+Result is 1020
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (33)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 15 and 5 respectively?
+:ANSWER1:0:H
+Result is 25
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 105
+:REASON2:H
+
+:ANSWER3:0:H
+Result is (s1 + s2)
+:REASON3:H
+
+:ANSWER4:100:H
+Compiler will generate a syntax error
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (34)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 7 and 9 respectively?
+:ANSWER1:0:H
+Result is 16
+:REASON1:H
+
+:ANSWER2:100:H
+Result is n1 + n2
+:REASON2:H
+
+:ANSWER3:0:H
+Result is 79
+:REASON3:H
+
+:ANSWER4:0:H
+Compiler will generate a syntax error
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (35)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 12 and 3 respectively?
+:ANSWER1:0:H
+Result is 0
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 12
+:REASON2:H
+
+:ANSWER3:0:H
+Result is 3
+:REASON3:H
+
+:ANSWER4:100:H
+Compiler will generate a syntax error
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (36)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 5,10 and 15 respectively?
+:ANSWER1:0:H
+Result is 6
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 8
+:REASON2:H
+
+:ANSWER3:100:H
+Result is 80
+:REASON3:H
+
+:ANSWER4:0:H
+Compiler will generate a syntax error
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (37)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 5,10 and 15 respectively?
+:ANSWER1:100:H
+Result is 6
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 8
+:REASON2:H
+
+:ANSWER3:0:H
+Result is 80
+:REASON3:H
+
+:ANSWER4:0:H
+Compiler will generate a syntax error
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (38)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 10, 2 and 2 respectively?
+:ANSWER1:100:H
+Result is 1
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 1.0
+:REASON2:H
+
+:ANSWER3:0:H
+Result is 2
+:REASON3:H
+
+:ANSWER4:0:H
+Result is 2.0
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (39)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 20 and 8 respectively?
+:ANSWER1:0:H
+2
+:REASON1:H
+
+:ANSWER2:0:H
+4
+:REASON2:H
+
+:ANSWER3:100:H
+6
+:REASON3:H
+
+:ANSWER4:0:H
+8
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (40)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 8 and 4 respectively?
+:ANSWER1:0:H
+Result is 2
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 6
+:REASON2:H
+
+:ANSWER3:0:H
+Result is 12
+:REASON3:H
+
+:ANSWER4:100:H
+Result is 18
+:REASON4:H
+
+:TYPE:MC:1:0:C
+:TITLE:CCS.1101 PRELIM EXAM (41)
+:CAT:CCS.1101 PRELIM EXAM
+:QUESTION:H
+Given the following code fragment, what would be printed on screen if the user inputs value 4 and 2 respectively?
+:ANSWER1:100:H
+Result is 5.0
+:REASON1:H
+
+:ANSWER2:0:H
+Result is 4.5
+:REASON2:H
+
+:ANSWER3:0:H
+Result is 4
+:REASON3:H
+
+:ANSWER4:0:H
+Compiler will generate a syntax error
+:REASON4:H
+
